@@ -1,0 +1,15 @@
+# Java
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.rar
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
